@@ -14,7 +14,6 @@
 
 ## Hi there 👋
 
-I think the title is self-explanatory. 
 This project was part of my self-study on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>. Introduction to bootsrap. 
   
 Take care, code safe! 💻
