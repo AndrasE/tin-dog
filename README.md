@@ -7,7 +7,7 @@
 <h3 align="center">
   Simple webpage template
   <br>
-  Bootsrap
+  Bootstrap
 </h3>
 
 <br>
