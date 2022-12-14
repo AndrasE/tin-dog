@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <a href="https://andrase.github.io/tindog/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/tindog-readme-img.png?raw=true">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/tindog-readme-img.png?raw=true" width="150">
   </a>
 </p>
 <h3 align="center">
