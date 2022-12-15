@@ -5,23 +5,24 @@
   </a>
 </p>
 <h3 align="center">
-  Simple webpage template
+  Simple webpage using
   <br>
-  Bootstrap
+  Bootstrap template
 </h3>
 
 <br>
 
 ## Hi there 👋
 
-This project was part of my self-study on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>. Introduction to bootsrap. 
+This project was lession during of my self-studies on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> called an introduction to bootstrap. 
+Using the bootstrap`s grid layout with some cards, a carousel and media query. Nothing fancy, but a good lession! 📚
   
 Take care, code safe! 💻
 
 <br>
 
 ## Run 🚀
-As its only uses HTML, CSS you wont need much:
+Its HTML, CSS only so you wont need much:
 
 ```sh
 $ git clone https://github.com/AndrasE/tindog
