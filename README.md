@@ -14,7 +14,7 @@
 
 ## Hi there 👋
 
-This project was a lesson during of my self-studies on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> called an introduction to bootstrap. Using the bootstraps grid layout with some cards, a carousel and media query. Nothing fancy, but a darn good lesson! 📚
+This project was a lesson part of my self-studies on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> as an introduction to bootstrap. Using the bootstrap's grid layout with some cards, a carousel and media query. Nothing fancy, but a darn good lesson! 📚
   
 Take care, code safe! 💻
 
