@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-<img src="https://github.com/AndrasE/raw-readme/blob/8e77f736175aa49927fddaac82130e86246f5b92/thumbs/tindog.png="420">
+<img src="https://github.com/AndrasE/raw-readme/blob/8e77f736175aa49927fddaac82130e86246f5b92/thumbs/tindog.png" width="420">
 </div>
 
 ## Hi there 👋
