@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://andrase.github.io/tindog/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/tindog-readme-img.png?raw=true" width="110">
+  <img src="https://github.com/AndrasE/raw-readme/blob/e0ba0d38fc6f2bb201983bbc4986e59f1ae946f2/logo/tindog-readme-img.png" width="110">
   </a>
 <br/>
   Simple webpage using Bootstrap
